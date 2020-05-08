@@ -1,0 +1,19 @@
+
+
+
+
+.label{
+    -fx-text-fill:white;
+}
+
+#CartContents .label{
+    -fx-font-size:20px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    -fx-max-height:Infinity;
+}
+
+#Summary .label{
+-fx-font-weight:normal
+}
+
